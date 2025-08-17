@@ -1,35 +1,10 @@
 # LinkUp
+
 LinkUp is a cross-platform Flutter application designed to demonstrate a simple email client interface. It supports Android, iOS, Linux, macOS, web, and Windows platforms. The app includes features like user login, home screen, contacts management, email composition, and draft management.
 
 ## Project Structure
-demoapp/
-├── android/                # Android-specific files
-├── build/                 # Build output
-├── ios/                   # iOS-specific files
-├── linux/                 # Linux-specific files
-├── macos/                 # macOS-specific files
-├── web/                   # Web-specific files
-├── windows/               # Windows-specific files
-├── test/                  # Unit and widget tests
-├── lib/                   # Main source code
-│   ├── main.dart          # Entry point of the application
-│   ├── screens/           # UI screens
-│   │   ├── login_screen.dart
-│   │   ├── home_screen.dart
-│   │   ├── contacts_screen.dart
-│   │   ├── email_compose_screen.dart
-│   │   └── drafts_screen.dart
-│   ├── widgets/           # Reusable UI components
-│   │   └── custom_button.dart
-│   ├── models/            # Data models
-│   │   └── user.dart
-│   └── services/          # API and business logic
-│       └── api_service.dart
-├── pubspec.yaml           # Project dependencies and metadata
-├── pubspec.lock           # Locked dependency versions
-├── analysis_options.yaml  # Linter rules
-├── README.md              # This file
-└── .gitignore             # Files and directories to ignore in version control
+<img width="512" height="626" alt="image" src="https://github.com/user-attachments/assets/1137d2dc-0d6b-4960-9354-936dcbba4d7d" />
+
 
 
 ## Features
